@@ -1,6 +1,12 @@
 # The Amazing Unicorn Whale
 <html>
    <body style="background:lightblue;">
+      <section>
+  <h4 style={color:white;} align="center">
+    &nbsp&nbsp&nbsp&nbsp&nbsp&nbsp
+    <a href="https://nathanu21.github.io/Structure-of-Narwhals/"> Structure of a Narwhal </a>
+  </h4>
+</section>
       <a> <img src="https://live.staticflickr.com/585/23344377835_909186d558_b.jpg"></a>
       <h3>An informational website about narwhals (Monodon monoceros)</h3>
       <h1> What is a Narwhal?</h1>
