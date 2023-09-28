@@ -2,8 +2,7 @@
 <html>
    <body style="background:lightblue;">
       <section>
-  <h4 style={color:white;} align="center">
-    &nbsp&nbsp&nbsp&nbsp&nbsp&nbsp
+  <h4 align="center">
     <a href="https://nathanu21.github.io/Structure-of-Narwhals/"> Structure of a Narwhal </a>
   </h4>
 </section>
